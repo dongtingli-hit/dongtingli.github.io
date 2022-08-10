@@ -8,9 +8,11 @@ School of Astronautics
 
 [Harbin Institute of Technology](http://en.hit.edu.cn/)
 
+Email: dalton.dtli@gmail.com; dtli@hit.edu.cn
+
 ### Biography
 
-Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. In Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu). His current research interests include multi-agent game theory and control, model predictive control, learning-based control and their applications in aerospace engineering.
+Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. In Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu). His current research interests include **multi-agent game theory and control**, **model predictive control**, **learning-based control** and **their applications in aerospace engineering**.
 
 
 ### Markdown
