@@ -1,8 +1,17 @@
-## Welcome to GitHub Pages
+## Dongting Li（李东庭）
 
-You can use the [editor on GitHub](https://github.com/dtli94/dongtingli.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Ph.D. student
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Department of Control Science and Engineering
+
+School of Astronautics
+
+[Harbin Institute of Technology](http://en.hit.edu.cn/)
+
+### Biography
+
+Dongting Li received the M.Eng. degree of Control Engineering from Harbin Institute of Technology (Shenzhen) in Jan. 2021. In Mar. 2021, he started pursuing his Ph.D. degree in Control Science and Engineering, Harbin Institute of Technology, working in the [spacecraft control research group](http://homepage.hit.edu.cn/maguangfu). His current research interests include multi-agent game theory and control, model predictive control, learning-based control and their applications in aerospace engineering.
+
 
 ### Markdown
 
