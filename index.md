@@ -1,16 +1,16 @@
 ## Dongting Li（李东庭）
 
-Ph.D. student
+**Ph.D. student**
 
-Department of Control Science and Engineering
+**Department of Control Science and Engineering**
 
-School of Astronautics
+**School of Astronautics**
 
-[Harbin Institute of Technology](http://en.hit.edu.cn/)
+**[Harbin Institute of Technology](http://en.hit.edu.cn/)**
 
-Email: dalton.dtli@gmail.com; dtli@hit.edu.cn
+**Email: dalton.dtli@gmail.com; dtli@hit.edu.cn**
 
-![Google Scholar](https://github.com/dongtingli-hit/dongtingli.github.io/blob/gh-pages/google_scholar.png)
+![Google Scholar](/assets/images/google_scholar.png)
 
 ### Biography
 
